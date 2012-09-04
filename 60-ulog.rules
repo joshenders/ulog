@@ -1,0 +1,1 @@
+ENV{DEVTYPE}=="disk", PROGRAM="/tmp/ulog.sh %k"
