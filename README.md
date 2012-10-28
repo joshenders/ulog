@@ -12,7 +12,7 @@ Install
 Usage
 =====
 
-Request device events from the kernel
+Request device events from the kernel.
 
     udevadm trigger
 
