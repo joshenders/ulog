@@ -18,4 +18,4 @@ Request device events from the kernel.
 
 View `/tmp/ulog.log` for the environment which is available to udev rules.
 
-    tail /tmp/ulog.log
+    less /tmp/ulog.log
